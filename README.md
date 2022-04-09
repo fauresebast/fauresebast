@@ -1,5 +1,9 @@
 # [Fauresebast](https://github.com/fauresebast)
-Softare Engineer from EPITA graduated in 2019 (Data Science and AI major, called SCIA).
+Ruby on Rails Softare Engineer at [Squadracer](https://squadracer.com/) since June 2020.
+
+I assist companies in the development of their web application. Worked with [Season](https://www.season-ed.com/), [Moka.care](http://moka.care/) and [Richemont](https://www.richemont.com/).
+
+Graduated from EPITA graduated in 2019 (Data Science and AI major, called SCIA).
 
 ## My profile
 I started as a DataScientist intern for my end-of-studies internship but I chose to focus more on programming itself as a Software Engineer.
