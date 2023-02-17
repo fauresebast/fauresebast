@@ -9,7 +9,7 @@ Graduated from EPITA graduated in 2019 (Data Science and AI major, called SCIA).
 I started as a DataScientist intern for my end-of-studies internship but I chose to focus more on programming itself as a Software Engineer.
 I feel really comfortable with Python and I am currently working with Ruby on Rails. You can find more information on my [LinkedIn](https://www.linkedin.com/in/fauresebast/).
 
-I also like competitive programming and I am still working on improving. I mainly compete on [CodingGame](https://www.codingame.com/profile/3d63099f61c408eaeac7be86dc3669be7382352) and more precisely in [Clash of Codes](https://www.codingame.com/multiplayer/clashofcode) which are short challenges to solve in less than 15 minutes. My peak rank is 32 on September 21st 2022 (467 460 CodinGamers on the leaderboard at this point).
+I also like competitive programming and I am still working on improving. I mainly compete on [CodingGame](https://www.codingame.com/profile/3d63099f61c408eaeac7be86dc3669be7382352) and more precisely in [Clash of Codes](https://www.codingame.com/multiplayer/clashofcode) which are short challenges to solve in less than 15 minutes. My peak rank is 25th on February 17th 2023 (529 040 CodinGamers on the leaderboard at this point).
 
 ## My github
 My github gathers home hobby projects. From little web application to little project to discover new technologies.
