@@ -12,10 +12,13 @@ I also like competitive programming and I am still working on improving. I mainl
 
 ## Contributions
 I have started my open-source journey in 2023 with several contributions:
+- During Squadracer Twitch streams with [@julienmarseille](https://github.com/julienmarseille), we have 
+  - made the [RoRdle](https://github.com/squadracer/rordle), the Ruby on Rails wordle!
+  - contributed to Squadracer's Twitch/CodinGame related web extension called [idem](https://github.com/squadracer/idem)
+  - added a [header for service workers in Propshaft](https://github.com/rails/propshaft/pull/153)
+  - improve the `rails-route-checker` gem with [tests for different Haml version with Appraisal](https://github.com/daveallie/rails-route-checker/pull/9) and [support for Haml >= 6.0](https://github.com/daveallie/rails-route-checker/pull/10)
 - I created the binding of a Rust crate into a Ruby gem called [boxcars](https://github.com/fauresebast/boxcars-gem)
-- I added a [header for service workers in Propshaft](https://github.com/rails/propshaft/pull/153)
-- On [rails-route-checker](https://github.com/daveallie/rails-route-checker), I have added [tests for different Haml version with Appraisal](https://github.com/daveallie/rails-route-checker/pull/9) and [support for Haml >= 6.0](https://github.com/daveallie/rails-route-checker/pull/10)
-- Working on awesome list related to Rails ... 👀
+- Working on awesome list related to Rails... 👀
 
 ## My github
 My github gathers home hobby projects. From little web application to little project to discover new technologies.
