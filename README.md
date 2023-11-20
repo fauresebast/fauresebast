@@ -8,7 +8,7 @@ Graduated from EPITA graduated in 2019 (Data Science and AI major, called SCIA).
 ## My profile
 I am currently working with Ruby on Rails. You can find more information on my [LinkedIn](https://www.linkedin.com/in/fauresebast/).
 
-I also like competitive programming and I am still working on improving. I mainly compete on [CodingGame](https://www.codingame.com/profile/3d63099f61c408eaeac7be86dc3669be7382352) and more precisely in [Clash of Codes](https://www.codingame.com/multiplayer/clashofcode) which are short challenges to solve in less than 15 minutes. My peak rank is 21st on November 15th 2023 (626 053 CodinGamers on the Clash of Code leaderboard at this point).
+I also like competitive programming and I am still working on improving. I mainly compete on [CodingGame](https://www.codingame.com/profile/3d63099f61c408eaeac7be86dc3669be7382352) and more precisely in [Clash of Codes](https://www.codingame.com/multiplayer/clashofcode) which are short challenges to solve in less than 15 minutes. My peak rank is 16st on November 20th 2023 (627 823 CodinGamers on the Clash of Code leaderboard at this point).
 
 ## Contributions
 I have started my open-source journey in 2023 with several contributions:
