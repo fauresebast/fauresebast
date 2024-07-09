@@ -1,7 +1,8 @@
 # [Fauresebast](https://github.com/fauresebast)
-Ruby on Rails Softare Engineer at [Squadracer](https://squadracer.com/) since June 2020.
+Ruby on Rails Software Engineer at [RingCentral](https://www.ringcentral.com/ringcx/omnichannel.html) since July 2024.
 
-I assist companies in the development of their web application. Worked with [Season](https://www.season-ed.com/), [Moka.care](http://moka.care/) and [Richemont](https://www.richemont.com/), [EDF](https://www.edf.fr/) and currently [Watura](https://watura.fr/). 
+Was Ruby on Rails Software Engineer at [Squadracer](https://squadracer.com/) from June 2020 to June 2024.
+- I assist companies in the development of their web application. Worked with [Season](https://www.season-ed.com/), [Moka.care](http://moka.care/) and [Richemont](https://www.richemont.com/), [EDF](https://www.edf.fr/) and [Watura](https://watura.fr/). 
 
 Graduated from EPITA graduated in 2019 (Data Science and AI major, called SCIA).
 
@@ -18,7 +19,7 @@ I have started my open-source journey in 2023 with several contributions:
   - added a [header for service workers in Propshaft](https://github.com/rails/propshaft/pull/153), but was not accepted
   - improve the `rails-route-checker` gem with [tests for different Haml version with Appraisal](https://github.com/daveallie/rails-route-checker/pull/9) and [support for Haml >= 6.0](https://github.com/daveallie/rails-route-checker/pull/10)
 - I created the binding of a Rust crate into a Ruby gem called [boxcars](https://github.com/fauresebast/boxcars-gem)
-- Working on awesome list related to Rails... 👀
+<!-- - Working on awesome list related to Rails... 👀 -->
 
 ## My github
 My github gathers home hobby projects. From little web application to little project to discover new technologies.
