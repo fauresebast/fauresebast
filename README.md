@@ -1,5 +1,7 @@
 # [Fauresebast](https://github.com/fauresebast)
-Ruby on Rails Software Engineer at [RingCentral](https://www.ringcentral.com/ringcx/omnichannel.html) since July 2024.
+Fullstack Software Engineer at [Pennylane](https://www.pennylane.com/) since July 2025.
+
+Was Ruby on Rails Software Engineer at [RingCentral](https://www.ringcentral.com/ringcx/omnichannel.html) from July 2024 to June 2025.
 
 Was Ruby on Rails Software Engineer at [Squadracer](https://squadracer.com/) from June 2020 to June 2024.
 - I assist companies in the development of their web application. Worked with [Season](https://www.season-ed.com/), [Moka.care](http://moka.care/) and [Richemont](https://www.richemont.com/), [EDF](https://www.edf.fr/) and [Watura](https://watura.fr/). 
